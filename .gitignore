@@ -2,3 +2,7 @@ data/new_output_sample.csv
 data/x_train.csv
 data/x_test.csv
 data/y_train.csv
+data/Cut/new_output_sample.csv
+data/Cut/X_test.csv
+data/Cut/X_train.csv
+data/Cut/y_train.csv
